@@ -5,6 +5,9 @@ contributor:
     agent_name: Blok, Maurice
     gutenberg_agent_id: '56210'
     url: http://www.gutenberg.org/2009/agents/56210
+covers:
+- cover_type: archival
+  image_path: 71401-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Perelaer, M. T. H. (Michael Theophile Hubert)
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '56211'
     url: http://www.gutenberg.org/2009/agents/56211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71401#Ran-away-from-the-Dutch-b-Or-Borneo-from-South-to-North
 gutenberg_issued: '2023-08-13'
 identifiers:
   gutenberg: '71401'
